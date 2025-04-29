@@ -1,0 +1,9 @@
+/* Kurs kartalari hover effekti */
+.course-card:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}
+.course-card img {
+    object-fit: cover;     /* rasm kartaga to‘liq sig‘sin */
+    height: 200px;         /* rasm balandligi bir xil bo‘lsin */
+}
