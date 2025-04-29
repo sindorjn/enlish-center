@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<h2>Bog'lanish</h2>
+<h2>Bog'lanish uchun ma'lumotlar</h2>
 <p>Biz bilan bog'lanish uchun quyidagi ma'lumotlardan foydalaning:</p>
 <ul class="list-unstyled">
     <li><img src="img/phone.png" alt="Telefon" style="height:24px; width:24px;"> <strong>Telefon:</strong> +998 90 123 45 67</li>
